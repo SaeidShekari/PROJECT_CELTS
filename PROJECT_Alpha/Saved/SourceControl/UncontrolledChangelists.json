@@ -4,10 +4,14 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
+<<<<<<< HEAD
 			"files": [
 				"O:/Github_Project_Celts/PROJECT_Alpha/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZQ/1ETU20IBBFPD7LWSHPIJQR.uasset",
 				"O:/Github/PROJECT_Alpha/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
+=======
+			"files": []
+>>>>>>> 82d0103c4445e3695d08edaa871f21b5d9aa5ca3
 		}
 	]
 }
